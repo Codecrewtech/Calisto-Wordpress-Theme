@@ -1,0 +1,9 @@
+
+body { background: #f5eded url("http://themesquared.com/tomato/wp-content/themes/tomato/assets/img/patterns/random_grey_variations.png") repeat center center; }
+.footer {
+    background: url("http://themesquared.com/tomato/wp-content/uploads/2015/12/bg6.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

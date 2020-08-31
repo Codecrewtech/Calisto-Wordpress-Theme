@@ -1,0 +1,26 @@
+/*
+Theme Name: Codecrew
+Theme URI: https://codecrew.tech/
+Author: Codecrew
+Author URI: https://codecrew.tech/
+Description: The reponsive shop WordPress theme
+Version: 2.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: full-width-template, theme-options, rtl-language-support, two-columns, left-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, sticky-post, threaded-comments
+Text Domain: supershop
+*/
+
+
+.wp-caption { }
+.wp-caption-text{
+	font-style: italic;
+	line-height: 1.35;
+	font-size: 13px;
+}
+.sticky { display: block; }
+.gallery-caption {
+	font-family: inherit;
+}
+.bypostauthor { }
+.screen-reader-text{ display: none; }

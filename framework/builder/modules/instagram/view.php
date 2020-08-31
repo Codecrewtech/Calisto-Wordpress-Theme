@@ -1,0 +1,1 @@
+<div id="instafeed" data-username="<?php echo esc_attr( $spyropress_user_id ); ?>"  data-access-token="<?php echo esc_attr( $spyropress_access_token ); ?>" data-client-id="<?php echo esc_attr( $spyropress_client_id ); ?>" data-limit="<?php echo esc_attr( $spyropress_limit ); ?>" >
